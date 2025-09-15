@@ -1,5 +1,4 @@
 
-
 function dashboardPage() {
   return (
     <section className="h-[calc(100vh-7rem)] flex justify-center items-center">
